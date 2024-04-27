@@ -1,0 +1,59 @@
+---
+title: Transformasi dan Keterpaduan Layanan Digital (SPBE, SDI, PDN)
+markmap:
+   colorFreezeLevel: 2
+---
+
+## Tujuan pengawasan
+### [x] Memastikan kebijakan dan desain Transformasi dan Keterpaduan Layanan Digital (SPBE, SDI dan PDN) pada tingkat nasional dan K/L pelaksana telah cukup dan selaras.
+- [TEO I.1](https://docs.google.com/spreadsheets/d/16u5y-W_YYyMn3445d3TTgaGP0h_lSNJ-/edit#gid=407227305) : Kebijakan terkait SPBE, SDI, dan PDN masih belum memadai dan tidak sepenuhnya selaras satu dengan yang lain.
+- TEO I.2: Terdapat peraturan/kebijakan yang tidak selaras secara vertikal (Pusat dan Daerah) maupun horizontal antar kementerian/lembaga/BU: MenpanRB, Kominfo, Bappenas, Kemendikbud, Kemenkes, Peruri pada Pelaksanaan Transformasi Digital terkait SPBE, SDI dan PDN.
+- TEO 1.3: Kebijakan Penyelenggaraan Aplikasi SPBE Prioritas oleh Peruri dan 9 K/L Prioritas belum memiliki kerangka jangka panjang,
+- TEO I.4: Desain Aplikasi SPBE belum mengarah pada ketercapaian peningkatan pelayanan publik.
+- TEO I.5: Peruri, sebagai penyelenggara Aplikasi SPBE Prioritas, belum siap secara kebijakan:
+  a. Peruri belum berhasil menerjemahkan Perpres 82/2023 menjadi langkah teknis;
+  b. Penanggungjawab dan pembagian tugas di dalam internal Peruri sebagai penyelenggara SPBE belum jelas;
+  c. Peruri Belum berhasil melakukan koordinasi efektif kepada Kementerian/Lembaga prioritas (9 K/L) secara khusus  terkait penjaminan keamanan data dari pemilik fungsi data;
+  d. Peruri belum berhasil mendapatkan Sumber Daya Manusia yang memiliki kompetensi cukup untuk mendukung tercapainya target peluncuran 9 aplikasi SPBE Prioritas;
+  e. Peruri belum memiliki strategi jelas terukur untuk pelaksanaan perpres 82/2023;
+  f. Peruri belum berhasil membangun infrastruktur untuk mendukung pengintegrasian 9 aplikasi SPBE Prioritas.
+- TEO I.6: Kemendagri bersama Kemenkominfo belum berhasil menerbitkan kebijakan dalam mempercepat pengembangan dan penerapan digital id.
+- TEO I.7: Kemenkominfo belum berhasil mentransformasi kebijakan Government Cloud untuk mempercepat peningkatan pelayanan digital.
+- TEO I.8: Renaksi atas ketercapaian target Perpres 82/2023: peluncuran 9 aplikasi SPBE prioritas belum dibuat.
+- TEO I.9: Penyusunan/penyelarasan Roadmap SPBE (Peta Rencana SPBE Nasional) dan Roadmap SDI (Milestone SDI) belum berhasil tersusun.
+- TEO I.10: Bappenas bersama Kemendagri belum berhasil menyusun/menerbitkan peraturan Hubungan dan Penyelenggaraan Satu Data Indonesia Tingkat Pusat dan Tingkat Daerah.
+- TEO I.11: Bappenas bersama Kementerian Dalam Negeri belum menerbitkan peraturan turunan terkait SDI di tingkat Daerah, membentuk Forum SDI Tingkat Daerah dan Sekretariat SDI Tingkat Daerah.
+- TEO I.12: 9 K/L dan Peruri belum memitigasi risiko percepatan transformasi digital.
+
+### [x] Memastikan pelaksanaan percepatan transformasi dan keterpaduan layanan digital nasional (SPBE, SDI dan PDN) telah memenuhi aspek efektivitas, keterpaduan, kesinambungan, interoperabilitas, keamanan, dan efisiensi pada sektor prioritas.
+- TEO II.1: Progres penyelenggaraan Aplikasi SPBE Prioritas belum maksimal: a. Progres peluncuran Aplikasi SPBE Prioritas belum maksimal; b. Progres pengintegrasian arsitektur metadata SDI belum maksimal; c. Progres pengintegrasian penggunaan Government Cloud (PDN) belum maksimal.
+- TEO II.2: Kelembagaan dalam percepatan transformasi digital dan keterpaduan layanan digital nasional (SPBE, SDI dan PDN ) yang dibangun belum berfungsi secara optimal.
+- TEO II.3: Aplikasi SPBE Prioritas berdasarkan STG tidak berhasil melakukan transformasi digital pada 10 aspek berikut: Aspek efektivitas; Aspek keterpaduan; Aspek kesinambungan; Aspek interoperabilitas; Aspek keamanan; Aspek efisiensi; Aspek akuntabilitas; Aspek Adaptif; Aspek Kolaboratif; dan/atau Aspek User Centric.
+- TEO II.4: 9 K/L prioritas belum mengkonsolidasikan semua aplikasi ke dalam satu portal nasional.
+
+### [x] Memastikan desain Solusi Tepat Guna dalam rangka percepatan transformasi dan keterpaduan layanan digital telah sesuai dan memenuhi kebutuhan spesifik..
+- TEO III.1: Proses perancangan STG belum berjalan dengan lancar: a. Identifikasi masalah Aplikasi SPBE Prioritas belum berhasil; b. Pendalaman kebutuhan pengguna belum berhasil; c. Perancangan/Desain Solusi Tepat Guna belum berhasil ditetapkan.
+- TEO III.2: Desain arsitektur teknologi Informasi belum tepat guna dalam rangka percepatan transformasi digital dan keterpaduan layanan digital.
+- TEO III.3.1: Hasil Evaluasi menunjukan SPBE Pusat dan Daerah masih belum memuaskan.
+- TEO III.3.1.1: Rerata skor evaluasi SPBE rendah.
+- TEO III.3.1.2: Skor hasil evaluasi SPBE belum mencerminkan kualitas pelayanan publik.
+- TEO III.3.1.3: SPBE belum mendorong peningkatan kualitas layanan publik.
+- TEO III.3.1.4: Progres Realisasi Rencana Strategis SPBE (perpres 95/2018) belum optimal, dan belum seluruhnya terselesaikan dengan adanya Perpres 82/2023.
+- TEO III.3.1.5: Terdapat hambatan dalam proses pembinaan dan pengawasan.
+- TEO III.3.1.6: Transisi dari penyelenggara SPBE kepada Peruri tidak berjalan dengan baik.
+- TEO III.3.2: Kelembagaan dalam percepatan transformasi digital dan keterpaduan layanan digital nasional (SPBE, SDI dan PDN ) yang dibangun belum berfungsi secara optimal.
+
+### [x] Memastikan penerapan SPBE, pemanfaatan SDI, dan pembangunan PDN telah berdampak terhadap peningkatan kualitas layanan pemerintah.
+- TEO IV.1: Manfaat/dampak penerapan/pelaksanaan SPBE, yang diintegrasikan dengan SDI, dan PDN, terutama pada aplikasi SPBE Prioritas belum signifikan.
+- TEO IV.2: Aplikasi SPBE belum optimal pada ketercapaian peningkatan pelayanan publik (keterbatasan akses internet mengganggu pelayanan publik).
+- TEO IV.3: Aplikasi SPBE Prioritas belum berguna sebagai solusi permasalahan pelayanan pemerintahan (Keterbatasan akses internet mengganggu pelayanan publik).
+- TEO IV.4: Terdapat pelaksanaan SPBE, SDI, dan PDN yang tidak mencapai target yang telah ditetapkan.
+- TEO IV.5: Pelaksanaan desain arsitektur teknologi Informasi belum tepat guna dalam rangka percepatan transformasi digital dan keterpaduan layanan digital.
+- TEO IV.6: Masyarakat tidak mau menggunakan Aplikasi SPBE Prioritas (Terdapat keengganan untuk berpindah dari aplikasi lama ke Aplikasi SPBE).
+
+### [x] Memastikan risiko yang dihadapi dalam implementasi SPBE, SDI, dan PDN telah diidentifikasi dan dikelola secara memadai.
+
+### [x] Memberikan rekomendasi untuk perbaikan kebijakan serta percepatan implementasi SPBE, SDI, dan penyediaan PDN.
+
+
+
